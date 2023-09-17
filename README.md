@@ -1,3 +1,5 @@
+![logo](https://github.com/smitbhadiyadra/smitbhadiyadra/blob/main/Smit%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Samit Bhadiyadra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
