@@ -1,9 +1,7 @@
-![logo](https://github.com/smitbhadiyadra/smitbhadiyadra/blob/main/Smit%20Banner.png)
 
 # 💫 About Me:
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 🔭 I’m currently working on Netflix Clone<br>🌱 I’m currently learning Backen<br>👨‍💻 All of my projects are available at https://linktr.ee/smit_bhadiyadra<br>💬 Ask me about gsap<br>📫 How to reach me bhadiyadrasmit24@gmail.com<br>⚡ Fun fact I love to coding and develop new things 😎
-
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samitbhadiyadra) 
